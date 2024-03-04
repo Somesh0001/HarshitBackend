@@ -1,10 +1,10 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js"
+    "start": "node index.js",
+    "dev": "node index.js"
   },
   "author": "Harshit",
   "license": "ISC",
@@ -31,7 +31,5 @@
     "socket.io": "^4.5.2",
     "validator": "^13.7.0"
   },
-  "devDependencies": {},
-  "description": "��#\u0000 \u0000f\u0000l\u0000i\u0000p\u0000r\u00002\u0000\r\u0000 \u0000#\u0000 \u0000f\u0000l\u0000i\u0000p\u0000r\u00002\u0000\r\u0000 \u0000#\u0000 \u0000f\u0000l\u0000i\u0000p\u0000r\u00002\u0000\r\u0000 \u0000",
   "keywords": []
 }
